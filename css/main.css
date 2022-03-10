@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.warning {
+  color: red;
+  text-decoration: underline;
+}
